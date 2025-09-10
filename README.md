@@ -1,2 +1,1 @@
 # BookiT
-For all requests.
